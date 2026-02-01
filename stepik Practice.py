@@ -50,3 +50,5 @@
 t = (1, 2, 3, 4, 5, 6, 7, 8, 9)  # кортэж
 print(type(t))  # <class 'tuple'>
 print(*t, sep=":", end="!")  # => 1:2:3:4:5:6:7:8:9!
+print()
+print("Hello 2026")
